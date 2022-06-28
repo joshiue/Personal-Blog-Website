@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;500;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@200;500&display=swap");
+
+.build {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.content {
+  padding: 30px;
+}
+
+.build {
+  font-size: 1.6em;
+  color: #050511;
+  font-weight: 700;
+}
+body {
+  font-family: "Nunito Semibold";
+  background-image: url(https://unsplash.com/photos/q10VITrVYUM/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mnx8Y29udGFjdCUyMGJhY2tncm91bmR8ZW58MHx8fHwxNjU2Mzk2NTQ4&force=true&w=2400);
+  text-align: justify;
+}
+footer {
+  font-family: "Assistant", sans-serif;
+  font-weight: 500;
+  color: sienna;
+}
